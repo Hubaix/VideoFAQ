@@ -4,7 +4,7 @@ import openai
 import gradio as gr
 from pytube import YouTube
 
-  # Replace with your OpenAI API key
+# Replace with your OpenAI API key
 
 chat_history = []  # Initialize an empty chat history list
 
